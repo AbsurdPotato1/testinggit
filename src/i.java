@@ -1,3 +1,3 @@
 public class i {
-  System.out.println("i");
+  public boolean hi;
 }
